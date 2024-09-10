@@ -3,7 +3,7 @@ package configs
 import (
 	"github.com/spf13/viper"
 
-	jwtauth "github.com/go-chi/jwtauth/v5"
+	"github.com/go-chi/jwtauth/v5"
 )
 
 type conf struct {
